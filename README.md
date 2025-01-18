@@ -10,6 +10,8 @@
 
 This Portfolio Website is a personal project designed to showcase my skills, projects, and professional experience. It serves as an online resume and portfolio, providing visitors with an insight into my work and background.
 
+![Alt text](assets/img/)
+
 ## Features
 
 - **Responsive Design**: Ensures optimal viewing experience across various devices.
