@@ -98,7 +98,7 @@ img {
 
 /*===== LAYOUT =====*/
 .bd-grid {
-  max-width: 80%;
+  max-width: 99%;
   display: grid;
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
@@ -589,3 +589,4 @@ img {
 .project__link:hover {
   background-color: #0056b3;
 }
+
